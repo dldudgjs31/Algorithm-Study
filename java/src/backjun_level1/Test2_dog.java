@@ -1,4 +1,4 @@
-package backjun;
+package backjun_level1;
 
 public class Test2_dog {
 	public static void main(String[] args) {

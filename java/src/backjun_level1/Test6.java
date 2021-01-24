@@ -1,4 +1,4 @@
-package backjun;
+package backjun_level1;
 
 import java.util.Scanner;
 
